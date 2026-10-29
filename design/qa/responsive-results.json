@@ -1,0 +1,42 @@
+{
+  "initial": [
+    {
+      "clientWidth": 305,
+      "headlineRight": 269.859375,
+      "heroColumnRight": 320,
+      "overflow": [],
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "clientWidth": 753,
+      "headlineRight": 429.109375,
+      "heroColumnRight": 753,
+      "overflow": [],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "clientWidth": 1009,
+      "headlineRight": 411.4765625,
+      "heroColumnRight": 428.8203125,
+      "overflow": [],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "clientWidth": 1905,
+      "headlineRight": 649.390625,
+      "heroColumnRight": 809.625,
+      "overflow": [],
+      "scrollWidth": 1905,
+      "width": 1920
+    }
+  ],
+  "finalNarrowResult": {
+    "clientWidth": 305,
+    "overflow": [],
+    "scrollWidth": 305,
+    "width": 320
+  }
+}

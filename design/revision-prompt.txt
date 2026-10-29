@@ -1,0 +1,12 @@
+Edit the selected desktop website mockup (image 1) faithfully. Keep its blue-and-white composition, white header, balanced split hero, actual club-day photograph, planned-meet strip, and prominent LPIE-first sponsor treatment. Target dimensions match the source: 1374 x 1145 pixels, flat website UI with no browser chrome or presentation border. This is the selected direction and a targeted copy/brand correction, not a new visual exploration.
+Make these exact changes:
+- Replace the entire incorrect header brand with the actual AcaBots logo from image 2. The first letter is the tall segmented geometric A from image 2. It is NOT the school block A. Preserve the complete source logo proportions and artwork as faithfully as possible. Image 2 already contains the correct A and CABOTS lettering as one lockup. Do not invent, substitute, or mix in another A. Black team mark on white header.
+- Remove the small repeated label "ACABOTS / FTC 24689" above the hero headline completely.
+- Replace "Robotics, built at Acalanes." with normal direct wording: "Acalanes High School’s robotics team." Set on three or four natural lines, at a readable refined size with the same typographic character as the original. Avoid gimmicky slogans or repeated AcaBots.
+- Replace the supporting paragraph with exactly: "Competing in FIRST Tech Challenge as Team 24689, based in Lafayette, California." It must appear once and must not repeat Acalanes High School from the headline.
+- Retain "Meet the team" and the quiet "Support AcaBots" link.
+- Retain header links Team, Season, Support, Contact.
+- Preserve the planned-meets strip: "2026–27 / BIOBUZZ", "Planned meets", "NOV 01 / Meet 1", "DEC 06 / Meet 2 at Acalanes".
+- Preserve "With support from", the original LPIE symbol and LPIE text first/most prominent, and the smaller plain Anderson Power name with "In-kind partner".
+Image 3 is the original user-supplied club-day photograph, available as a faithful source for the right-side photograph. Preserve the real people and robot, no synthetic replacements or new mechanisms. Image 4 is the authentic LPIE mark. Do not use fake logo reconstructions.
+No gradients, glass panels, cards, pill badges, decorative patterns, extra awards or claims, sponsor amounts, new elements or other changes. No logo replacement by the school block A. The current date is October 19, 2026 in America/Los_Angeles; the displayed Nov 1 and Dec 6, 2026 meets are planned and upcoming. Use the source images as precise reference assets.

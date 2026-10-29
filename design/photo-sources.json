@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-19",
+  "policy": "No generated pixels, reconstruction, object removal, face edits, background replacement, or content-aware fills. No color or exposure changes were applied.",
+  "photos": [
+    {
+      "name": "01-workshop",
+      "attachment": "codex-clipboard-f458f9a2-bfb5-4b77-a8bb-b55b653b9446.png",
+      "width": 1252,
+      "height": 1670,
+      "sha256": "49b5a71c84622bb53d0645bfe9ab21c8a582d25a21dce9a297b67a09e2c30dcf",
+      "id": "workshop",
+      "crop": {
+        "left": 0,
+        "top": 420,
+        "width": 1252,
+        "height": 939
+      },
+      "operations": [
+        "rectangular crop where specified",
+        "downsize",
+        "WebP encoding; metadata stripped"
+      ],
+      "outputs": [
+        {
+          "file": "public/images/workshop-720.webp",
+          "width": 720,
+          "height": 540,
+          "bytes": 59150
+        },
+        {
+          "file": "public/images/workshop-1200.webp",
+          "width": 1200,
+          "height": 900,
+          "bytes": 122404
+        }
+      ]
+    },
+    {
+      "name": "02-programming",
+      "attachment": "codex-clipboard-4b7c285c-242f-406d-9485-1840863ac5de.png",
+      "width": 2226,
+      "height": 1670,
+      "sha256": "32f3ce99fe36b0958d4bb7bf874716e585e4c20ac582e10d36b568b2eb98bc85",
+      "id": "programming",
+      "crop": null,
+      "operations": [
+        "rectangular crop where specified",
+        "downsize",
+        "WebP encoding; metadata stripped"
+      ],
+      "outputs": [
+        {
+          "file": "public/images/programming-720.webp",
+          "width": 720,
+          "height": 540,
+          "bytes": 58296
+        },
+        {
+          "file": "public/images/programming-1200.webp",
+          "width": 1200,
+          "height": 900,
+          "bytes": 118786
+        }
+      ]
+    },
+    {
+      "name": "08-community-group",
+      "attachment": "codex-clipboard-873b0664-b968-48d0-9704-7c05af86c075.png",
+      "width": 2226,
+      "height": 1670,
+      "sha256": "429ce604b41e03ea5f275f8b1d92d81aa97294964f64905683018163cafd39d8",
+      "id": "community-group",
+      "crop": {
+        "left": 0,
+        "top": 150,
+        "width": 2226,
+        "height": 1484
+      },
+      "operations": [
+        "rectangular crop where specified",
+        "downsize",
+        "WebP encoding; metadata stripped"
+      ],
+      "outputs": [
+        {
+          "file": "public/images/community-group-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 73150
+        },
+        {
+          "file": "public/images/community-group-1600.webp",
+          "width": 1600,
+          "height": 1067,
+          "bytes": 162844
+        }
+      ]
+    },
+    {
+      "name": "07-vr-demo",
+      "attachment": "codex-clipboard-7e2400a8-77b1-44ce-8bb3-21a163e460e7.png",
+      "width": 1252,
+      "height": 1670,
+      "sha256": "e5c469c9e8329a06fbc2bedd6ffac522326bdb78808afd10a2e47e66edc9e5d2",
+      "id": "vr-demo",
+      "crop": null,
+      "operations": [
+        "rectangular crop where specified",
+        "downsize",
+        "WebP encoding; metadata stripped"
+      ],
+      "outputs": [
+        {
+          "file": "public/images/vr-demo-640.webp",
+          "width": 640,
+          "height": 854,
+          "bytes": 64052
+        },
+        {
+          "file": "public/images/vr-demo-960.webp",
+          "width": 960,
+          "height": 1281,
+          "bytes": 128996
+        }
+      ]
+    },
+    {
+      "name": "group-demo",
+      "attachment": "codex-clipboard-963eae51-74fd-42c0-9ca1-a55680bca592.png",
+      "date": "2026-10-20",
+      "width": 2226,
+      "height": 1670,
+      "sha256": "356b49c67fd4f8c4ded0b55d2c73160716ae084fe611c11742d2bea018f1150d",
+      "id": "group-demo",
+      "crop": {
+        "left": 0,
+        "top": 186,
+        "width": 2226,
+        "height": 1484
+      },
+      "operations": [
+        "rectangular crop removes excess upper window area",
+        "downsize",
+        "WebP encoding; metadata stripped"
+      ],
+      "outputs": [
+        {
+          "file": "public/images/group-demo-720.webp",
+          "width": 720,
+          "height": 480,
+          "bytes": 51104
+        },
+        {
+          "file": "public/images/group-demo-1200.webp",
+          "width": 1200,
+          "height": 800,
+          "bytes": 112012
+        }
+      ]
+    }
+  ],
+  "updated": "2026-10-20"
+}
